@@ -13,7 +13,7 @@ function preload() {
 } 
  
 function draw() { 
-  background(128);
+  background(74, 217, 140);
   cursor('grab');
   let p = createVector( mouseX-x, mouseY-y, 0);
   p.limit(2);
