@@ -114,3 +114,24 @@ a{
     right: 16px;
     font-size: 18px;
   }
+
+  .view {
+    background-image: url('tabs.jpeg');
+    background-size: 100%;
+
+  }
+
+  .tabs {
+    background-image: url('viewer/tabs.jpg');
+    background-size: 100%;
+  }
+
+  .digital{
+    background-image: url('viewer/digitalLandscapes.jpg');
+    background-size: 100%;
+  }
+
+  .pixel{
+    background-image: url('viewer/pixel.jpg');
+    background-size: 100%;
+  }
